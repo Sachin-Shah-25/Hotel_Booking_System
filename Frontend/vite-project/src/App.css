@@ -1,0 +1,42 @@
+
+.left-50{
+    left: 50%;
+    top: 100px;
+}
+
+
+
+
+@media (max-width: 995px) {
+    #logoutbtn{
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+
+@media (max-width:1000px) {
+    #hotelview{
+        flex-direction: column;
+    }
+}
+#bookingForm{
+    width: 40%;
+}
+@media (max-width:768px) {
+    #bookingForm{
+        width: 50%;
+    }
+}
+@media (max-width:992px) {
+    #bookingForm{
+        width: 40%;
+    }
+}
+
+@media (max-width:576px) {
+    #bookingForm{
+        width: 50%;
+    }
+}
+
+

@@ -1,0 +1,2218 @@
+[
+  {
+    "roomNumber": "H1-R1",
+    "type": "Double",
+    "pricePerNight": 3468,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h1"
+  },
+  {
+    "roomNumber": "H2-R1",
+    "type": "Suite",
+    "pricePerNight": 4987,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h2"
+  },
+  {
+    "roomNumber": "H3-R1",
+    "type": "Single",
+    "pricePerNight": 4969,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h3"
+  },
+  {
+    "roomNumber": "H4-R1",
+    "type": "Double",
+    "pricePerNight": 6910,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11",
+      "2025-08-12"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h4"
+  },
+  {
+    "roomNumber": "H5-R1",
+    "type": "Double",
+    "pricePerNight": 6554,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h5"
+  },
+  {
+    "roomNumber": "H6-R1",
+    "type": "Suite",
+    "pricePerNight": 6106,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h6"
+  },
+  {
+    "roomNumber": "H7-R1",
+    "type": "Double",
+    "pricePerNight": 7765,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h7"
+  },
+  {
+    "roomNumber": "H8-R1",
+    "type": "Suite",
+    "pricePerNight": 6779,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h8"
+  },
+  {
+    "roomNumber": "H9-R1",
+    "type": "Double",
+    "pricePerNight": 6527,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h9"
+  },
+  {
+    "roomNumber": "H10-R1",
+    "type": "Single",
+    "pricePerNight": 6812,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h10"
+  },
+  {
+    "roomNumber": "H11-R1",
+    "type": "Double",
+    "pricePerNight": 5329,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h11"
+  },
+  {
+    "roomNumber": "H12-R1",
+    "type": "Single",
+    "pricePerNight": 6036,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h12"
+  },
+  {
+    "roomNumber": "H13-R1",
+    "type": "Double",
+    "pricePerNight": 4616,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h13"
+  },
+  {
+    "roomNumber": "H14-R1",
+    "type": "Suite",
+    "pricePerNight": 4247,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h14"
+  },
+  {
+    "roomNumber": "H15-R1",
+    "type": "Double",
+    "pricePerNight": 4383,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11",
+      "2025-08-12"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h15"
+  },
+  {
+    "roomNumber": "H16-R1",
+    "type": "Double",
+    "pricePerNight": 4847,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11",
+      "2025-08-12"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h16"
+  },
+  {
+    "roomNumber": "H17-R1",
+    "type": "Suite",
+    "pricePerNight": 4146,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11",
+      "2025-08-12"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h17"
+  },
+  {
+    "roomNumber": "H18-R1",
+    "type": "Double",
+    "pricePerNight": 3645,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h18"
+  },
+  {
+    "roomNumber": "H19-R1",
+    "type": "Single",
+    "pricePerNight": 7766,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h19"
+  },
+  {
+    "roomNumber": "H20-R1",
+    "type": "Single",
+    "pricePerNight": 4603,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h20"
+  },
+  {
+    "roomNumber": "H21-R1",
+    "type": "Double",
+    "pricePerNight": 4970,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h21"
+  },
+  {
+    "roomNumber": "H22-R1",
+    "type": "Suite",
+    "pricePerNight": 4330,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h22"
+  },
+  {
+    "roomNumber": "H23-R1",
+    "type": "Double",
+    "pricePerNight": 7776,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h23"
+  },
+  {
+    "roomNumber": "H24-R1",
+    "type": "Suite",
+    "pricePerNight": 4721,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h24"
+  },
+  {
+    "roomNumber": "H25-R1",
+    "type": "Single",
+    "pricePerNight": 4901,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h25"
+  },
+  {
+    "roomNumber": "H26-R1",
+    "type": "Single",
+    "pricePerNight": 3377,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h26"
+  },
+  {
+    "roomNumber": "H27-R1",
+    "type": "Suite",
+    "pricePerNight": 3391,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h27"
+  },
+  {
+    "roomNumber": "H28-R1",
+    "type": "Single",
+    "pricePerNight": 5681,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h28"
+  },
+  {
+    "roomNumber": "H29-R1",
+    "type": "Double",
+    "pricePerNight": 3120,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h29"
+  },
+  {
+    "roomNumber": "H30-R1",
+    "type": "Single",
+    "pricePerNight": 7031,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h30"
+  },
+  {
+    "roomNumber": "H31-R1",
+    "type": "Double",
+    "pricePerNight": 3428,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11",
+      "2025-08-12"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h31"
+  },
+  {
+    "roomNumber": "H32-R1",
+    "type": "Single",
+    "pricePerNight": 5472,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h32"
+  },
+  {
+    "roomNumber": "H33-R1",
+    "type": "Suite",
+    "pricePerNight": 3948,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h33"
+  },
+  {
+    "roomNumber": "H34-R1",
+    "type": "Single",
+    "pricePerNight": 5108,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h34"
+  },
+  {
+    "roomNumber": "H35-R1",
+    "type": "Suite",
+    "pricePerNight": 3212,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h35"
+  },
+  {
+    "roomNumber": "H36-R1",
+    "type": "Double",
+    "pricePerNight": 3091,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h36"
+  },
+  {
+    "roomNumber": "H37-R1",
+    "type": "Double",
+    "pricePerNight": 3921,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h37"
+  },
+  {
+    "roomNumber": "H38-R1",
+    "type": "Suite",
+    "pricePerNight": 6462,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h38"
+  },
+  {
+    "roomNumber": "H39-R1",
+    "type": "Suite",
+    "pricePerNight": 6745,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h39"
+  },
+  {
+    "roomNumber": "H40-R1",
+    "type": "Suite",
+    "pricePerNight": 6359,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h40"
+  },
+  {
+    "roomNumber": "H41-R1",
+    "type": "Double",
+    "pricePerNight": 5119,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h41"
+  },
+  {
+    "roomNumber": "H42-R1",
+    "type": "Suite",
+    "pricePerNight": 6889,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h42"
+  },
+  {
+    "roomNumber": "H43-R1",
+    "type": "Suite",
+    "pricePerNight": 7170,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h43"
+  },
+  {
+    "roomNumber": "H44-R1",
+    "type": "Suite",
+    "pricePerNight": 7144,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h44"
+  },
+  {
+    "roomNumber": "H45-R1",
+    "type": "Suite",
+    "pricePerNight": 7784,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h45"
+  },
+  {
+    "roomNumber": "H46-R1",
+    "type": "Single",
+    "pricePerNight": 3409,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h46"
+  },
+  {
+    "roomNumber": "H47-R1",
+    "type": "Double",
+    "pricePerNight": 7562,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h47"
+  },
+  {
+    "roomNumber": "H48-R1",
+    "type": "Double",
+    "pricePerNight": 6744,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h48"
+  },
+  {
+    "roomNumber": "H49-R1",
+    "type": "Suite",
+    "pricePerNight": 6791,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h49"
+  },
+  {
+    "roomNumber": "H50-R1",
+    "type": "Single",
+    "pricePerNight": 3259,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h50"
+  },
+  {
+    "roomNumber": "H51-R1",
+    "type": "Single",
+    "pricePerNight": 4569,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h51"
+  },
+  {
+    "roomNumber": "H52-R1",
+    "type": "Suite",
+    "pricePerNight": 2950,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h52"
+  },
+  {
+    "roomNumber": "H53-R1",
+    "type": "Double",
+    "pricePerNight": 4703,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h53"
+  },
+  {
+    "roomNumber": "H54-R1",
+    "type": "Suite",
+    "pricePerNight": 6144,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h54"
+  },
+  {
+    "roomNumber": "H55-R1",
+    "type": "Double",
+    "pricePerNight": 3355,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h55"
+  },
+  {
+    "roomNumber": "H56-R1",
+    "type": "Suite",
+    "pricePerNight": 6739,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11",
+      "2025-08-12"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h56"
+  },
+  {
+    "roomNumber": "H57-R1",
+    "type": "Single",
+    "pricePerNight": 4514,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h57"
+  },
+  {
+    "roomNumber": "H58-R1",
+    "type": "Suite",
+    "pricePerNight": 7988,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h58"
+  },
+  {
+    "roomNumber": "H59-R1",
+    "type": "Single",
+    "pricePerNight": 7851,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h59"
+  },
+  {
+    "roomNumber": "H60-R1",
+    "type": "Suite",
+    "pricePerNight": 6252,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h60"
+  },
+  {
+    "roomNumber": "H61-R1",
+    "type": "Single",
+    "pricePerNight": 3897,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h61"
+  },
+  {
+    "roomNumber": "H62-R1",
+    "type": "Double",
+    "pricePerNight": 4201,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h62"
+  },
+  {
+    "roomNumber": "H63-R1",
+    "type": "Single",
+    "pricePerNight": 6605,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h63"
+  },
+  {
+    "roomNumber": "H64-R1",
+    "type": "Double",
+    "pricePerNight": 6672,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h64"
+  },
+  {
+    "roomNumber": "H65-R1",
+    "type": "Suite",
+    "pricePerNight": 3761,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h65"
+  },
+  {
+    "roomNumber": "H66-R1",
+    "type": "Suite",
+    "pricePerNight": 5486,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11",
+      "2025-08-12"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h66"
+  },
+  {
+    "roomNumber": "H67-R1",
+    "type": "Single",
+    "pricePerNight": 3075,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11",
+      "2025-08-12"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h67"
+  },
+  {
+    "roomNumber": "H68-R1",
+    "type": "Suite",
+    "pricePerNight": 7654,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h68"
+  },
+  {
+    "roomNumber": "H69-R1",
+    "type": "Single",
+    "pricePerNight": 7438,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h69"
+  },
+  {
+    "roomNumber": "H70-R1",
+    "type": "Double",
+    "pricePerNight": 5434,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h70"
+  },
+  {
+    "roomNumber": "H71-R1",
+    "type": "Double",
+    "pricePerNight": 3208,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h71"
+  },
+  {
+    "roomNumber": "H72-R1",
+    "type": "Suite",
+    "pricePerNight": 3600,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h72"
+  },
+  {
+    "roomNumber": "H73-R1",
+    "type": "Double",
+    "pricePerNight": 7132,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h73"
+  },
+  {
+    "roomNumber": "H74-R1",
+    "type": "Suite",
+    "pricePerNight": 7764,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h74"
+  },
+  {
+    "roomNumber": "H75-R1",
+    "type": "Single",
+    "pricePerNight": 5191,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11",
+      "2025-08-12"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h75"
+  },
+  {
+    "roomNumber": "H76-R1",
+    "type": "Single",
+    "pricePerNight": 2696,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h76"
+  },
+  {
+    "roomNumber": "H77-R1",
+    "type": "Suite",
+    "pricePerNight": 7398,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h77"
+  },
+  {
+    "roomNumber": "H78-R1",
+    "type": "Suite",
+    "pricePerNight": 4181,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h78"
+  },
+  {
+    "roomNumber": "H79-R1",
+    "type": "Double",
+    "pricePerNight": 3816,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h79"
+  },
+  {
+    "roomNumber": "H80-R1",
+    "type": "Double",
+    "pricePerNight": 3473,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h80"
+  },
+  {
+    "roomNumber": "H81-R1",
+    "type": "Double",
+    "pricePerNight": 4806,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h81"
+  },
+  {
+    "roomNumber": "H82-R1",
+    "type": "Double",
+    "pricePerNight": 5765,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h82"
+  },
+  {
+    "roomNumber": "H83-R1",
+    "type": "Double",
+    "pricePerNight": 4842,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h83"
+  },
+  {
+    "roomNumber": "H84-R1",
+    "type": "Suite",
+    "pricePerNight": 3631,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h84"
+  },
+  {
+    "roomNumber": "H85-R1",
+    "type": "Single",
+    "pricePerNight": 3391,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h85"
+  },
+  {
+    "roomNumber": "H86-R1",
+    "type": "Single",
+    "pricePerNight": 3794,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h86"
+  },
+  {
+    "roomNumber": "H87-R1",
+    "type": "Double",
+    "pricePerNight": 6927,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h87"
+  },
+  {
+    "roomNumber": "H88-R1",
+    "type": "Double",
+    "pricePerNight": 3116,
+    "capacity": 1,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h88"
+  },
+  {
+    "roomNumber": "H89-R1",
+    "type": "Suite",
+    "pricePerNight": 2512,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10",
+      "2025-08-11"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h89"
+  },
+  {
+    "roomNumber": "H90-R1",
+    "type": "Suite",
+    "pricePerNight": 6231,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h90"
+  },
+  {
+    "roomNumber": "H91-R1",
+    "type": "Suite",
+    "pricePerNight": 5494,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h91"
+  },
+  {
+    "roomNumber": "H92-R1",
+    "type": "Double",
+    "pricePerNight": 4347,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h92"
+  },
+  {
+    "roomNumber": "H93-R1",
+    "type": "Double",
+    "pricePerNight": 3847,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h93"
+  },
+  {
+    "roomNumber": "H94-R1",
+    "type": "Suite",
+    "pricePerNight": 4257,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h94"
+  },
+  {
+    "roomNumber": "H95-R1",
+    "type": "Suite",
+    "pricePerNight": 4130,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h95"
+  },
+  {
+    "roomNumber": "H96-R1",
+    "type": "Suite",
+    "pricePerNight": 7013,
+    "capacity": 4,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi"
+    ],
+    "hotelId": "h96"
+  },
+  {
+    "roomNumber": "H97-R1",
+    "type": "Suite",
+    "pricePerNight": 6292,
+    "capacity": 2,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h97"
+  },
+  {
+    "roomNumber": "H98-R1",
+    "type": "Single",
+    "pricePerNight": 6332,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h98"
+  },
+  {
+    "roomNumber": "H99-R1",
+    "type": "Suite",
+    "pricePerNight": 5677,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08"
+    ],
+    "amenities": [
+      "Wi-Fi",
+      "TV"
+    ],
+    "hotelId": "h99"
+  },
+  {
+    "roomNumber": "H100-R1",
+    "type": "Double",
+    "pricePerNight": 5697,
+    "capacity": 3,
+    "availability": [
+      "2025-08-01",
+      "2025-08-02",
+      "2025-08-03",
+      "2025-08-04",
+      "2025-08-05",
+      "2025-08-06",
+      "2025-08-07",
+      "2025-08-08",
+      "2025-08-09",
+      "2025-08-10"
+    ],
+    "amenities": [
+      "AC",
+      "Wi-Fi",
+      "Mini Bar",
+      "Breakfast"
+    ],
+    "hotelId": "h100"
+  }
+]

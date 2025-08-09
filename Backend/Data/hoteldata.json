@@ -1,0 +1,902 @@
+[
+  {
+    "id": "h1",
+    "name": "Trident",
+    "pricePerNight": 8231,
+    "rating": 3.8,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h2",
+    "name": "The Lalit",
+    "pricePerNight": 10019,
+    "rating": 4.2,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h3",
+    "name": "The Oberoi",
+    "pricePerNight": 3814,
+    "rating": 3.1,
+    "city": "Hyderabad",
+    "thumbnail": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "description": "An elegant resort with sea views, spa services, and fine dining."
+  },
+  {
+    "id": "h4",
+    "name": "Novotel",
+    "pricePerNight": 10556,
+    "rating": 3.7,
+    "city": "Jaipur",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "A budget-friendly hotel with comfortable rooms and easy access to local attractions."
+  },
+  {
+    "id": "h5",
+    "name": "ITC Maurya",
+    "pricePerNight": 8997,
+    "rating": 3.3,
+    "city": "Pune",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "Modern hotel with gym, cafe, and proximity to shopping centers."
+  },
+  {
+    "id": "h6",
+    "name": "ITC Maurya",
+    "pricePerNight": 7905,
+    "rating": 4.5,
+    "city": "Delhi",
+    "thumbnail": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "Modern hotel with gym, cafe, and proximity to shopping centers."
+  },
+  {
+    "id": "h7",
+    "name": "The Oberoi",
+    "pricePerNight": 9088,
+    "rating": 4.8,
+    "city": "Bengaluru",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h8",
+    "name": "The Oberoi",
+    "pricePerNight": 10279,
+    "rating": 4.3,
+    "city": "Jaipur",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h9",
+    "name": "ITC Maurya",
+    "pricePerNight": 4018,
+    "rating": 4.6,
+    "city": "Rajasthan",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "Romantic stay for couples featuring rooftop dining and scenic views."
+  },
+  {
+    "id": "h10",
+    "name": "Trident",
+    "pricePerNight": 12410,
+    "rating": 4.4,
+    "city": "Rajasthan",
+    "thumbnail": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h11",
+    "name": "Le Meridien",
+    "pricePerNight": 4812,
+    "rating": 4.7,
+    "city": "Bengaluru",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "Family-friendly hotel with spacious rooms, kids\u2019 activities, and nearby attractions."
+  },
+  {
+    "id": "h12",
+    "name": "Taj Palace",
+    "pricePerNight": 10569,
+    "rating": 4.7,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h13",
+    "name": "JW Marriott",
+    "pricePerNight": 13915,
+    "rating": 3.4,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "Business-friendly hotel with fast Wi-Fi, meeting rooms, and 24/7 room service."
+  },
+  {
+    "id": "h14",
+    "name": "Le Meridien",
+    "pricePerNight": 9185,
+    "rating": 3.5,
+    "city": "Bengaluru",
+    "thumbnail": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "description": "Modern hotel with gym, cafe, and proximity to shopping centers."
+  },
+  {
+    "id": "h15",
+    "name": "ITC Maurya",
+    "pricePerNight": 9665,
+    "rating": 3.2,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1559599238-0fc3d87a7d67",
+    "description": "Business-friendly hotel with fast Wi-Fi, meeting rooms, and 24/7 room service."
+  },
+  {
+    "id": "h16",
+    "name": "The Lalit",
+    "pricePerNight": 8207,
+    "rating": 3.4,
+    "city": "Jaipur",
+    "thumbnail": "https://images.unsplash.com/photo-1559599238-0fc3d87a7d67",
+    "description": "Located in the heart of the city, offering premium service and modern rooms."
+  },
+  {
+    "id": "h17",
+    "name": "Le Meridien",
+    "pricePerNight": 11589,
+    "rating": 3.8,
+    "city": "Pune",
+    "thumbnail": "https://images.unsplash.com/photo-1559599238-0fc3d87a7d67",
+    "description": "Classic heritage hotel with traditional decor and cultural charm."
+  },
+  {
+    "id": "h18",
+    "name": "Le Meridien",
+    "pricePerNight": 7103,
+    "rating": 5.0,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "Business-friendly hotel with fast Wi-Fi, meeting rooms, and 24/7 room service."
+  },
+  {
+    "id": "h19",
+    "name": "Taj Palace",
+    "pricePerNight": 7801,
+    "rating": 4.8,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h20",
+    "name": "Radisson Blu",
+    "pricePerNight": 4011,
+    "rating": 3.2,
+    "city": "Chennai",
+    "thumbnail": "https://images.unsplash.com/photo-1590490360182-b1a9b5d2e6c9",
+    "description": "Family-friendly hotel with spacious rooms, kids\u2019 activities, and nearby attractions."
+  },
+  {
+    "id": "h21",
+    "name": "Trident",
+    "pricePerNight": 7692,
+    "rating": 3.1,
+    "city": "Hyderabad",
+    "thumbnail": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h22",
+    "name": "Novotel",
+    "pricePerNight": 8082,
+    "rating": 5.0,
+    "city": "Bengaluru",
+    "thumbnail": "https://images.unsplash.com/photo-1582719478190-ef42f5dcf0a1",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h23",
+    "name": "Trident",
+    "pricePerNight": 13998,
+    "rating": 3.5,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h24",
+    "name": "ITC Maurya",
+    "pricePerNight": 12286,
+    "rating": 4.5,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1559599238-0fc3d87a7d67",
+    "description": "Located in the heart of the city, offering premium service and modern rooms."
+  },
+  {
+    "id": "h25",
+    "name": "JW Marriott",
+    "pricePerNight": 6817,
+    "rating": 4.0,
+    "city": "Rajasthan",
+    "thumbnail": "https://images.unsplash.com/photo-1613977257363-707ba9348228",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h26",
+    "name": "Radisson Blu",
+    "pricePerNight": 4626,
+    "rating": 3.5,
+    "city": "Bengaluru",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "Modern hotel with gym, cafe, and proximity to shopping centers."
+  },
+  {
+    "id": "h27",
+    "name": "The Lalit",
+    "pricePerNight": 3583,
+    "rating": 4.3,
+    "city": "Jaipur",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h28",
+    "name": "JW Marriott",
+    "pricePerNight": 9066,
+    "rating": 4.7,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "Classic heritage hotel with traditional decor and cultural charm."
+  },
+  {
+    "id": "h29",
+    "name": "The Lalit",
+    "pricePerNight": 12167,
+    "rating": 3.3,
+    "city": "Chennai",
+    "thumbnail": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h30",
+    "name": "Trident",
+    "pricePerNight": 13032,
+    "rating": 4.7,
+    "city": "Delhi",
+    "thumbnail": "https://images.unsplash.com/photo-1582719478190-ef42f5dcf0a1",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h31",
+    "name": "Novotel",
+    "pricePerNight": 14179,
+    "rating": 3.3,
+    "city": "Bengaluru",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "Family-friendly hotel with spacious rooms, kids\u2019 activities, and nearby attractions."
+  },
+  {
+    "id": "h32",
+    "name": "Taj Palace",
+    "pricePerNight": 11196,
+    "rating": 4.4,
+    "city": "Hyderabad",
+    "thumbnail": "https://images.unsplash.com/photo-1590490360182-b1a9b5d2e6c9",
+    "description": "Romantic stay for couples featuring rooftop dining and scenic views."
+  },
+  {
+    "id": "h33",
+    "name": "Radisson Blu",
+    "pricePerNight": 5326,
+    "rating": 4.0,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1613977257363-707ba9348228",
+    "description": "Family-friendly hotel with spacious rooms, kids\u2019 activities, and nearby attractions."
+  },
+  {
+    "id": "h34",
+    "name": "The Lalit",
+    "pricePerNight": 11458,
+    "rating": 5.0,
+    "city": "Hyderabad",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h35",
+    "name": "The Oberoi",
+    "pricePerNight": 7752,
+    "rating": 4.9,
+    "city": "Pune",
+    "thumbnail": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "description": "Located in the heart of the city, offering premium service and modern rooms."
+  },
+  {
+    "id": "h36",
+    "name": "Trident",
+    "pricePerNight": 4594,
+    "rating": 4.8,
+    "city": "Delhi",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "Romantic stay for couples featuring rooftop dining and scenic views."
+  },
+  {
+    "id": "h37",
+    "name": "Le Meridien",
+    "pricePerNight": 5806,
+    "rating": 3.4,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1590490360182-b1a9b5d2e6c9",
+    "description": "Romantic stay for couples featuring rooftop dining and scenic views."
+  },
+  {
+    "id": "h38",
+    "name": "Le Meridien",
+    "pricePerNight": 12841,
+    "rating": 3.9,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "description": "Located in the heart of the city, offering premium service and modern rooms."
+  },
+  {
+    "id": "h39",
+    "name": "JW Marriott",
+    "pricePerNight": 8602,
+    "rating": 3.2,
+    "city": "Delhi",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h40",
+    "name": "Taj Palace",
+    "pricePerNight": 5286,
+    "rating": 3.7,
+    "city": "Chennai",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "A budget-friendly hotel with comfortable rooms and easy access to local attractions."
+  },
+  {
+    "id": "h41",
+    "name": "Radisson Blu",
+    "pricePerNight": 12881,
+    "rating": 4.6,
+    "city": "Hyderabad",
+    "thumbnail": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h42",
+    "name": "The Oberoi",
+    "pricePerNight": 8267,
+    "rating": 4.6,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "Business-friendly hotel with fast Wi-Fi, meeting rooms, and 24/7 room service."
+  },
+  {
+    "id": "h43",
+    "name": "JW Marriott",
+    "pricePerNight": 7038,
+    "rating": 3.3,
+    "city": "Delhi",
+    "thumbnail": "https://images.unsplash.com/photo-1559599238-0fc3d87a7d67",
+    "description": "Family-friendly hotel with spacious rooms, kids\u2019 activities, and nearby attractions."
+  },
+  {
+    "id": "h44",
+    "name": "Hyatt Regency",
+    "pricePerNight": 8476,
+    "rating": 3.7,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "description": "An elegant resort with sea views, spa services, and fine dining."
+  },
+  {
+    "id": "h45",
+    "name": "Trident",
+    "pricePerNight": 10580,
+    "rating": 4.4,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1590490360182-b1a9b5d2e6c9",
+    "description": "An elegant resort with sea views, spa services, and fine dining."
+  },
+  {
+    "id": "h46",
+    "name": "Taj Palace",
+    "pricePerNight": 14291,
+    "rating": 3.7,
+    "city": "Chennai",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "Located in the heart of the city, offering premium service and modern rooms."
+  },
+  {
+    "id": "h47",
+    "name": "The Oberoi",
+    "pricePerNight": 4770,
+    "rating": 5.0,
+    "city": "Pune",
+    "thumbnail": "https://images.unsplash.com/photo-1590490360182-b1a9b5d2e6c9",
+    "description": "Family-friendly hotel with spacious rooms, kids\u2019 activities, and nearby attractions."
+  },
+  {
+    "id": "h48",
+    "name": "Novotel",
+    "pricePerNight": 7279,
+    "rating": 3.3,
+    "city": "Jaipur",
+    "thumbnail": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "description": "Business-friendly hotel with fast Wi-Fi, meeting rooms, and 24/7 room service."
+  },
+  {
+    "id": "h49",
+    "name": "Novotel",
+    "pricePerNight": 6684,
+    "rating": 3.5,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "An elegant resort with sea views, spa services, and fine dining."
+  },
+  {
+    "id": "h50",
+    "name": "Hyatt Regency",
+    "pricePerNight": 9055,
+    "rating": 4.6,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h51",
+    "name": "Radisson Blu",
+    "pricePerNight": 14498,
+    "rating": 3.8,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "Classic heritage hotel with traditional decor and cultural charm."
+  },
+  {
+    "id": "h52",
+    "name": "Radisson Blu",
+    "pricePerNight": 4654,
+    "rating": 3.1,
+    "city": "Pune",
+    "thumbnail": "https://images.unsplash.com/photo-1613977257363-707ba9348228",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h53",
+    "name": "Le Meridien",
+    "pricePerNight": 4811,
+    "rating": 3.2,
+    "city": "Rajasthan",
+    "thumbnail": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "description": "Located in the heart of the city, offering premium service and modern rooms."
+  },
+  {
+    "id": "h54",
+    "name": "The Lalit",
+    "pricePerNight": 4216,
+    "rating": 4.4,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1590490360182-b1a9b5d2e6c9",
+    "description": "Classic heritage hotel with traditional decor and cultural charm."
+  },
+  {
+    "id": "h55",
+    "name": "Trident",
+    "pricePerNight": 12820,
+    "rating": 4.4,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "A budget-friendly hotel with comfortable rooms and easy access to local attractions."
+  },
+  {
+    "id": "h56",
+    "name": "Novotel",
+    "pricePerNight": 11983,
+    "rating": 3.6,
+    "city": "Pune",
+    "thumbnail": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "description": "Romantic stay for couples featuring rooftop dining and scenic views."
+  },
+  {
+    "id": "h57",
+    "name": "Le Meridien",
+    "pricePerNight": 9975,
+    "rating": 3.8,
+    "city": "Bengaluru",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "Business-friendly hotel with fast Wi-Fi, meeting rooms, and 24/7 room service."
+  },
+  {
+    "id": "h58",
+    "name": "ITC Maurya",
+    "pricePerNight": 7596,
+    "rating": 4.9,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1613977257363-707ba9348228",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h59",
+    "name": "Hyatt Regency",
+    "pricePerNight": 3730,
+    "rating": 3.6,
+    "city": "Delhi",
+    "thumbnail": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h60",
+    "name": "Le Meridien",
+    "pricePerNight": 10174,
+    "rating": 4.0,
+    "city": "Jaipur",
+    "thumbnail": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "Romantic stay for couples featuring rooftop dining and scenic views."
+  },
+  {
+    "id": "h61",
+    "name": "Hyatt Regency",
+    "pricePerNight": 6256,
+    "rating": 3.4,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1559599238-0fc3d87a7d67",
+    "description": "Romantic stay for couples featuring rooftop dining and scenic views."
+  },
+  {
+    "id": "h62",
+    "name": "Novotel",
+    "pricePerNight": 14457,
+    "rating": 3.6,
+    "city": "Hyderabad",
+    "thumbnail": "https://images.unsplash.com/photo-1590490360182-b1a9b5d2e6c9",
+    "description": "Family-friendly hotel with spacious rooms, kids\u2019 activities, and nearby attractions."
+  },
+  {
+    "id": "h63",
+    "name": "JW Marriott",
+    "pricePerNight": 9987,
+    "rating": 3.4,
+    "city": "Delhi",
+    "thumbnail": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "description": "Business-friendly hotel with fast Wi-Fi, meeting rooms, and 24/7 room service."
+  },
+  {
+    "id": "h64",
+    "name": "JW Marriott",
+    "pricePerNight": 10972,
+    "rating": 4.7,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1590490360182-b1a9b5d2e6c9",
+    "description": "Family-friendly hotel with spacious rooms, kids\u2019 activities, and nearby attractions."
+  },
+  {
+    "id": "h65",
+    "name": "Hyatt Regency",
+    "pricePerNight": 6111,
+    "rating": 3.9,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h66",
+    "name": "ITC Maurya",
+    "pricePerNight": 14617,
+    "rating": 3.4,
+    "city": "Jaipur",
+    "thumbnail": "https://images.unsplash.com/photo-1613977257363-707ba9348228",
+    "description": "Business-friendly hotel with fast Wi-Fi, meeting rooms, and 24/7 room service."
+  },
+  {
+    "id": "h67",
+    "name": "Hyatt Regency",
+    "pricePerNight": 4197,
+    "rating": 4.8,
+    "city": "Pune",
+    "thumbnail": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "A budget-friendly hotel with comfortable rooms and easy access to local attractions."
+  },
+  {
+    "id": "h68",
+    "name": "ITC Maurya",
+    "pricePerNight": 13492,
+    "rating": 3.6,
+    "city": "Pune",
+    "thumbnail": "https://images.unsplash.com/photo-1590490360182-b1a9b5d2e6c9",
+    "description": "Classic heritage hotel with traditional decor and cultural charm."
+  },
+  {
+    "id": "h69",
+    "name": "Taj Palace",
+    "pricePerNight": 12030,
+    "rating": 3.8,
+    "city": "Delhi",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "Modern hotel with gym, cafe, and proximity to shopping centers."
+  },
+  {
+    "id": "h70",
+    "name": "Taj Palace",
+    "pricePerNight": 8758,
+    "rating": 3.4,
+    "city": "Hyderabad",
+    "thumbnail": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h71",
+    "name": "Novotel",
+    "pricePerNight": 4241,
+    "rating": 3.7,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1613977257363-707ba9348228",
+    "description": "Classic heritage hotel with traditional decor and cultural charm."
+  },
+  {
+    "id": "h72",
+    "name": "The Lalit",
+    "pricePerNight": 11178,
+    "rating": 4.9,
+    "city": "Pune",
+    "thumbnail": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "description": "An elegant resort with sea views, spa services, and fine dining."
+  },
+  {
+    "id": "h73",
+    "name": "The Oberoi",
+    "pricePerNight": 8204,
+    "rating": 4.8,
+    "city": "Pune",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "Classic heritage hotel with traditional decor and cultural charm."
+  },
+  {
+    "id": "h74",
+    "name": "Taj Palace",
+    "pricePerNight": 5366,
+    "rating": 3.8,
+    "city": "Bengaluru",
+    "thumbnail": "https://images.unsplash.com/photo-1559599238-0fc3d87a7d67",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h75",
+    "name": "Hyatt Regency",
+    "pricePerNight": 13492,
+    "rating": 3.2,
+    "city": "Chennai",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "Business-friendly hotel with fast Wi-Fi, meeting rooms, and 24/7 room service."
+  },
+  {
+    "id": "h76",
+    "name": "Novotel",
+    "pricePerNight": 9192,
+    "rating": 5.0,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h77",
+    "name": "ITC Maurya",
+    "pricePerNight": 6661,
+    "rating": 3.3,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1590490360182-b1a9b5d2e6c9",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h78",
+    "name": "Hyatt Regency",
+    "pricePerNight": 5630,
+    "rating": 4.8,
+    "city": "Bengaluru",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "Romantic stay for couples featuring rooftop dining and scenic views."
+  },
+  {
+    "id": "h79",
+    "name": "The Oberoi",
+    "pricePerNight": 5600,
+    "rating": 4.7,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1613977257363-707ba9348228",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h80",
+    "name": "Novotel",
+    "pricePerNight": 5054,
+    "rating": 4.4,
+    "city": "Bengaluru",
+    "thumbnail": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "Family-friendly hotel with spacious rooms, kids\u2019 activities, and nearby attractions."
+  },
+  {
+    "id": "h81",
+    "name": "Hyatt Regency",
+    "pricePerNight": 13618,
+    "rating": 4.0,
+    "city": "Rajasthan",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "Located in the heart of the city, offering premium service and modern rooms."
+  },
+  {
+    "id": "h82",
+    "name": "ITC Maurya",
+    "pricePerNight": 9638,
+    "rating": 3.8,
+    "city": "Pune",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "Located in the heart of the city, offering premium service and modern rooms."
+  },
+  {
+    "id": "h83",
+    "name": "Trident",
+    "pricePerNight": 4565,
+    "rating": 3.4,
+    "city": "Jaipur",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "A budget-friendly hotel with comfortable rooms and easy access to local attractions."
+  },
+  {
+    "id": "h84",
+    "name": "Trident",
+    "pricePerNight": 7822,
+    "rating": 4.9,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "description": "Located in the heart of the city, offering premium service and modern rooms."
+  },
+  {
+    "id": "h85",
+    "name": "ITC Maurya",
+    "pricePerNight": 3105,
+    "rating": 4.1,
+    "city": "Chennai",
+    "thumbnail": "https://images.unsplash.com/photo-1582719478190-ef42f5dcf0a1",
+    "description": "Modern hotel with gym, cafe, and proximity to shopping centers."
+  },
+  {
+    "id": "h86",
+    "name": "Novotel",
+    "pricePerNight": 6811,
+    "rating": 3.9,
+    "city": "Bengaluru",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "description": "A budget-friendly hotel with comfortable rooms and easy access to local attractions."
+  },
+  {
+    "id": "h87",
+    "name": "Hyatt Regency",
+    "pricePerNight": 6675,
+    "rating": 3.9,
+    "city": "Delhi",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "Modern hotel with gym, cafe, and proximity to shopping centers."
+  },
+  {
+    "id": "h88",
+    "name": "The Oberoi",
+    "pricePerNight": 11281,
+    "rating": 3.5,
+    "city": "Jaipur",
+    "thumbnail": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "description": "An elegant resort with sea views, spa services, and fine dining."
+  },
+  {
+    "id": "h89",
+    "name": "Radisson Blu",
+    "pricePerNight": 10327,
+    "rating": 3.5,
+    "city": "Chennai",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154207-8fdc9a232be4",
+    "description": "Modern hotel with gym, cafe, and proximity to shopping centers."
+  },
+  {
+    "id": "h90",
+    "name": "ITC Maurya",
+    "pricePerNight": 8862,
+    "rating": 3.2,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "description": "Located in the heart of the city, offering premium service and modern rooms."
+  },
+  {
+    "id": "h91",
+    "name": "Novotel",
+    "pricePerNight": 10857,
+    "rating": 4.3,
+    "city": "Hyderabad",
+    "thumbnail": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h92",
+    "name": "The Oberoi",
+    "pricePerNight": 13840,
+    "rating": 4.2,
+    "city": "Mumbai",
+    "thumbnail": "https://images.unsplash.com/photo-1501117716987-c8e1ecb210c7",
+    "description": "Modern hotel with gym, cafe, and proximity to shopping centers."
+  },
+  {
+    "id": "h93",
+    "name": "Novotel",
+    "pricePerNight": 6019,
+    "rating": 4.4,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "description": "A luxury 5-star hotel offering panoramic city views, fine dining, and world-class amenities."
+  },
+  {
+    "id": "h94",
+    "name": "ITC Maurya",
+    "pricePerNight": 7178,
+    "rating": 4.9,
+    "city": "Delhi",
+    "thumbnail": "https://images.unsplash.com/photo-1559599238-0fc3d87a7d67",
+    "description": "Family-friendly hotel with spacious rooms, kids\u2019 activities, and nearby attractions."
+  },
+  {
+    "id": "h95",
+    "name": "Radisson Blu",
+    "pricePerNight": 10250,
+    "rating": 3.6,
+    "city": "Rajasthan",
+    "thumbnail": "https://images.unsplash.com/photo-1582719478190-ef42f5dcf0a1",
+    "description": "A peaceful getaway with lush gardens, a swimming pool, and serene ambience."
+  },
+  {
+    "id": "h96",
+    "name": "Hyatt Regency",
+    "pricePerNight": 5683,
+    "rating": 3.7,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+    "description": "Classic heritage hotel with traditional decor and cultural charm."
+  },
+  {
+    "id": "h97",
+    "name": "Trident",
+    "pricePerNight": 3475,
+    "rating": 3.5,
+    "city": "Jaipur",
+    "thumbnail": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "description": "A budget-friendly hotel with comfortable rooms and easy access to local attractions."
+  },
+  {
+    "id": "h98",
+    "name": "Trident",
+    "pricePerNight": 14983,
+    "rating": 3.2,
+    "city": "Hyderabad",
+    "thumbnail": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "Modern hotel with gym, cafe, and proximity to shopping centers."
+  },
+  {
+    "id": "h99",
+    "name": "Trident",
+    "pricePerNight": 7266,
+    "rating": 3.6,
+    "city": "Ahmedabad",
+    "thumbnail": "https://images.unsplash.com/photo-1590490360182-b1a9b5d2e6c9",
+    "description": "Modern hotel with gym, cafe, and proximity to shopping centers."
+  },
+  {
+    "id": "h100",
+    "name": "Le Meridien",
+    "pricePerNight": 13211,
+    "rating": 3.6,
+    "city": "Kolkata",
+    "thumbnail": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+    "description": "Romantic stay for couples featuring rooftop dining and scenic views."
+  }
+]
