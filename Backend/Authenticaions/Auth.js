@@ -13,7 +13,7 @@ const userRegister = async (req, res) => {
         const hash_password = await bcrypt.hash(password, 10)
         
         await registrationModel.create({
-            username,email: email.toLocaleLowerCase(),
+            username,email: email.toLowerCase(),
             password: hash_password
         })
 
