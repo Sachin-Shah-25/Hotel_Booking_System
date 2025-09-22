@@ -39,24 +39,24 @@ This project provides an easy way for users to explore hotels, check offers, rea
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./src/assets/hosp1.JPG)
-![Hotels Section](./src/assets/hosp2.JPG)
-![Special Offers](./src/assets/hosp3.JPG)
-![Testimonials](./src/assets/hosp4.JPG)
+![Home Page](./Frontend/front/src/assets/hosp1.JPG)
+![Hotels Section](./Frontend/front/src/assets/hosp2.JPG)
+![Special Offers](./Frontend/front/src/assets/hosp3.JPG)
+![Testimonials](./Frontend/front/src/assets/hosp4.JPG)
 
 ### 🏨 Hotel View Page
-![Hotel View Page](./src/assets/hosp7.JPG)
-![Hotel View Page1](./src/assets/hosp8.JPG)
+![Hotel View Page](./Frontend/front/src/assets/hosp7.JPG)
+![Hotel View Page1](./Frontend/front/src/assets/hosp8.JPG)
 
 ### 📊 Dashboard
-![Dashboard](./src/assets/hosp6.JPG)
+![Dashboard](./Frontend/front/src/assets/hosp6.JPG)
 
 ### 🔑 Signup / Signin
-![SignUp](./src/assets/hosp9.JPG)
-![SignIn](./src/assets/hosp10.JPG)
+![SignUp](./Frontend/front/src/assets/hosp9.JPG)
+![SignIn](./Frontend/front/src/assets/hosp10.JPG)
 
 ### 🏠 Footer
-![Footer](./src/assets/hosp5.JPG)
+![Footer](./Frontend/front/src/assets/hosp5.JPG)
 ---
 
 ## ⚙️ Setup Instructions

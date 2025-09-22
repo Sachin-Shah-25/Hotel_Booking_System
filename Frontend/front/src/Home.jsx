@@ -7,15 +7,8 @@ import intro from './assets/intro.mp4'
 
 import bg1 from './assets/bg1.JPG'
 import bg2 from './assets/bg2.JPG'
-import v from "./assets/react.svg"
 import Test from './Components/Test'
 import Footer from './Components/Footer'
-import { div } from 'framer-motion/client'
-import ImageSlider from './Components/ImageSlider'
-import hero from './assets/hero.JPG'
-import image from './assets/image.png'
-import image2 from './assets/image2.png'
-import logo from './assets/logo.JPG'
 import logo1 from './assets/logo1.png'
 
 import { IoWifi } from "react-icons/io5";
