@@ -23,7 +23,6 @@ const userRegister = async (req, res) => {
             data: ""
         })
     } catch (error) {
-        console.log("Error : ", error.message)
         return res.status(500).json({ success: false, message: error.message })
     }
 
@@ -38,7 +37,7 @@ const userlgoin = async (req, res) => {
         if (!isUserExists) return res.status(404).json({ success: false, message: "Email Not Registerd" })
 
         const hash_password = await bcrypt.compare(password, isUserExists.password)
-        if (!hash_password) return res.status(409).json({ success: false, message: "Password doen't match" })
+        if (!hash_password) return res.status(409).json({ success: false, message: "Password doesn't match" })
             
         const token = jwt.sign({
             username: isUserExists.username,
@@ -59,7 +58,6 @@ const userlgoin = async (req, res) => {
             mydata: isUserExists
         })
     } catch (error) {
-        console.log("Error : ", error.message)
         return res.status(500).json({ success: false, message: error.message })
     }
 
@@ -70,7 +68,6 @@ const myProfileFun = async (req, res) => {
         
         const getFile = req.file
         const userId = req.user.userId
-
         const getUser = await registrationModel.findOne({ _id: userId })
 
         if (!getUser) res.status(404).json({ success: false, message: "Email Not Registerd" })
@@ -81,13 +78,8 @@ const myProfileFun = async (req, res) => {
 
         getUser.profile = getFile.originalname
         await getUser.save()
-
-
-
         return res.status(200).json({ success:true, message: "Profile Updated" })
-
     } catch (error) {
-        console.log("Error : ", error.message)
         return res.status(500).json({ success: false, message: error.message })
     }
 }

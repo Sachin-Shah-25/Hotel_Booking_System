@@ -65,7 +65,6 @@ const getResultbyFilterFun = async (req, res) => {
             data: getResultByFilter
         })
     } catch (error) {
-        console.log("Error : ", error.message)
         return res.status(500).json({ success: false, message: error.message })
     }
 }
@@ -73,15 +72,15 @@ const getResultbyFilterFun = async (req, res) => {
 const hotelBookingFun = async (req, res) => {
     try {
         const { fullName, guestName, phoneNumber, checkIn, checkOut, guests, special, userId, roomId, hotelId } = req.body
-
+        console.log("Room Id ",roomId , " ",userId)
         const getRoomData = await roommodel.findOne({ _id: roomId })
         const totalPrice = getRoomData.totalPrice || 65223
-
+        console.log("find Id ",getRoomData)
         const isBookingSuccess = new bookingModel({
             userId, hotelId, roomId, fullName, guestName, phoneNumber, special, guests, checkIn, checkOut, totalPrice
         })
         await isBookingSuccess.save()
-
+        console.log(isBookingSuccess)
         return res.status(200).json({
             success: true,
             message: "Booking Successfully",
@@ -91,7 +90,7 @@ const hotelBookingFun = async (req, res) => {
 
 
     } catch (error) {
-        console.log("Error : ", error.message)
+        console.log(error.message)
         return res.status(500).json({ success: false, message: error.message })
     }
 }

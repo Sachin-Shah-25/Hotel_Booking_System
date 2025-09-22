@@ -7,6 +7,7 @@ const router=express.Router()
 
 router.post("/register",userRegister) // Done
 router.post("/login",userlgoin) // Done
+
 router.post("/sendreview",verifyToken,reviewFun)
 
 router.post("/hotel/booking",verifyToken,hotelBookingFun)

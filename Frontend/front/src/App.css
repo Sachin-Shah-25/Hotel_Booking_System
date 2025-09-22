@@ -1,0 +1,248 @@
+/* 
+body{
+    background-color: #121212;
+} */
+ .auth_form{
+    width: 60%;
+    position: relative;
+    box-shadow: 0px 0px 10px 0px gray;
+    padding: 50px;
+    border-radius: 50px;
+    background-color: white;
+ }
+ .sign_form{
+    width: 40%;
+ }
+ .signupbtn{
+    background-origin: #7352d7;
+ }
+ .auth_form div input{
+    border: 1px solid gra;
+ }
+ .form_left{
+    width: 60%;
+ }
+ .form_right{
+    width: 40%;
+    height: 100vh;
+    background-image: url("./assets/authbg1.png");
+    background-position: center;
+ }
+ .form_container{
+    position: absolute;
+    width: 100%;
+    left: 50%;
+    top: 0;
+    transform: translateX(-50%);
+ }
+ .auth_image{
+    height: 100vh;
+    background-image: url("./assets/authbg1.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+.left-50{
+    left: 50%;
+    top: 100px;
+}
+
+.offer_image1, .offer_image2{
+    width: 50%;
+}
+.special_offer_image{
+    gap: 20;
+}
+.footer_right{
+    width: 100%;
+}
+.footer_bottom_left{
+    width: 100%;
+}
+
+.footer_bottom_right{
+    width: 100%;
+}
+
+
+.services_container h1{
+    font-size: 3rem;
+}
+.services{
+    display: flex;
+    gap: 20px;
+}
+.service_left{
+    width: 50%;
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-bottom: 30px;
+     justify-content: space-evenly;
+}
+.service_left div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    span:first-child{
+        font-size: 3rem;
+          margin-bottom: 10px;
+          color: #554a79;
+    }
+}
+.service_right{
+      width: 50%;
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+
+}
+.service_right div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    ;
+    span:first-child{
+        font-size: 3rem;
+        margin-bottom: 10px;
+        color: #554a79;
+    }
+}
+
+@media (max-width:1000px) {
+    #hotelview{
+        flex-direction: column;
+    }
+     .services{
+        flex-direction: column;
+    }
+    .service_left{
+        width: 100%;
+    }
+    .service_left div span:last-child{
+        text-align: center;
+        font-size: 1rem;
+    }
+
+      .service_right{
+        width: 100%;
+    }
+    .service_right div span:last-child{
+        text-align: center;
+        font-size: 1rem;
+    }
+}
+
+@media (max-width:992px) {
+    #logoutbtn{
+        display: flex;
+        justify-content: flex-end;
+    }
+    #bookingForm{
+        width: 40%;
+    }
+    .view_detail{
+        margin-top: 50px;
+        width: 100%;
+    }
+}
+
+#bookingForm{
+    width: 40%;
+}
+@media (max-width:768px) {
+    #bookingForm{
+        width: 60%;
+    }
+}
+
+@media (max-width:650px) {
+     .auth_form{
+        width: 80%;
+        padding: 50px 40px;
+    }
+    .pass{
+       flex-direction: column;
+    }
+}
+@media (max-width:576px) {
+
+    #bookingForm{
+        width: 70%;
+    }
+    .special_offer_image{
+        flex-direction: column;
+        gap: 0;
+    }
+    .offer_image1{
+        width: 100%;
+        padding-top: 0;
+       
+    }
+    .offer_image2{
+        width: 100%;
+        padding-top: 0;
+    }
+    #test_head{
+        font-size: 3rem;
+    }
+    .test_container{
+        width: 100%;
+        justify-items: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .test{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .footter_left{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    .h4{
+        width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    }
+    .footer_right{
+        display: flex;
+        flex-direction: column;
+        margin-top: 30px;
+        padding: 0px 5px;
+    }
+    .footer_right h1{
+        width: 100%;
+        text-align: center;
+    }
+    .footer_bottom{
+        flex-direction: column-reverse;
+    }
+    .footer_bottom_left{
+        margin-top: 20px;
+    }
+    h6{
+        font-size: .8rem;
+    }
+    .suggest_container{
+        padding: 0;
+    }
+    .view_detail{
+        margin-top: 50px;
+    }
+   
+}
+
+
