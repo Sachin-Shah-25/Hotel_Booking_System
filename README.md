@@ -45,15 +45,15 @@ This project provides an easy way for users to explore hotels, check offers, rea
 ![Testimonials](./Frontend/front/src/assets/hosp4.JPG)
 
 ### 🏨 Hotel View Page
-![Hotel View Page](./Frontend/front/src/assets/hosp7.JPG)
-![Hotel View Page1](./Frontend/front/src/assets/hosp8.JPG)
+![Hotel View Page](./Frontend/front/src/assets/Hosp7.JPG)
+![Hotel View Page1](./Frontend/front/src/assets/Hosp8.JPG)
 
 ### 📊 Dashboard
-![Dashboard](./Frontend/front/src/assets/hosp6.JPG)
+![Dashboard](./Frontend/front/src/assets/Hosp6.JPG)
 
 ### 🔑 Signup / Signin
-![SignUp](./Frontend/front/src/assets/hosp9.JPG)
-![SignIn](./Frontend/front/src/assets/hosp10.JPG)
+![SignUp](./Frontend/front/src/assets/Hosp9.JPG)
+![SignIn](./Frontend/front/src/assets/Hosp10.JPG)
 
 ### 🏠 Footer
 ![Footer](./Frontend/front/src/assets/hosp5.JPG)
