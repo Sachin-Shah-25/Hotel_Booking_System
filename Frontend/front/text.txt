@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "The Royal Palace",
+    "pricePerNight": 4500,
+    "rating": 4.5,
+    "city": "Delhi",
+    "description": "Luxury hotel with premium amenities and city view.",
+    "thumbnail": "https://source.unsplash.com/400x300/?hotel,luxury"
+  },
+  {
+    "id": "2",
+    "name": "Sea View Resort",
+    "pricePerNight": 6000,
+    "rating": 4.7,
+    "city": "Goa",
+    "description": "Beachside resort with stunning sea views.",
+    "thumbnail": "https://source.unsplash.com/400x300/?resort,beach"
+  },
+  {
+    "id": "3",
+    "name": "Mountain Retreat",
+    "pricePerNight": 3500,
+    "rating": 4.3,
+    "city": "Manali",
+    "description": "Peaceful stay in the lap of mountains.",
+    "thumbnail": "https://source.unsplash.com/400x300/?mountain,hotel"
+  },
+  {
+    "id": "4",
+    "name": "Urban Stay",
+    "pricePerNight": 3000,
+    "rating": 4.0,
+    "city": "Mumbai",
+    "description": "Modern hotel in the heart of the city.",
+    "thumbnail": "https://source.unsplash.com/400x300/?city,hotel"
+  },
+  {
+    "id": "5",
+    "name": "Desert Oasis",
+    "pricePerNight": 4000,
+    "rating": 4.2,
+    "city": "Jaipur",
+    "description": "Traditional Rajasthani experience with modern comfort.",
+    "thumbnail": "https://source.unsplash.com/400x300/?desert,resort"
+  },
+  {
+    "id": "6",
+    "name": "Lake View Inn",
+    "pricePerNight": 3800,
+    "rating": 4.4,
+    "city": "Udaipur",
+    "description": "Hotel with beautiful lake view and peaceful vibes.",
+    "thumbnail": "https://source.unsplash.com/400x300/?lake,hotel"
+  },
+  {
+    "id": "7",
+    "name": "Green Valley Resort",
+    "pricePerNight": 4200,
+    "rating": 4.6,
+    "city": "Kerala",
+    "description": "Surrounded by greenery and nature.",
+    "thumbnail": "https://source.unsplash.com/400x300/?nature,resort"
+  },
+  {
+    "id": "8",
+    "name": "Snow Peak Hotel",
+    "pricePerNight": 5000,
+    "rating": 4.8,
+    "city": "Shimla",
+    "description": "Snow-covered mountain views with cozy rooms.",
+    "thumbnail": "https://source.unsplash.com/400x300/?snow,hotel"
+  },
+  {
+    "id": "9",
+    "name": "Business Hub Hotel",
+    "pricePerNight": 3200,
+    "rating": 3.9,
+    "city": "Bangalore",
+    "description": "Perfect for business travelers.",
+    "thumbnail": "https://source.unsplash.com/400x300/?business,hotel"
+  },
+  {
+    "id": "10",
+    "name": "Heritage Stay",
+    "pricePerNight": 4700,
+    "rating": 4.5,
+    "city": "Agra",
+    "description": "Experience heritage with modern luxury.",
+    "thumbnail": "https://source.unsplash.com/400x300/?heritage,hotel"
+  }
+]

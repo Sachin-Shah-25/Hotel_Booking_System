@@ -1,0 +1,92 @@
+[
+  {
+    "hotelid": "64f1a1a1a1a1a1a1a1a1a1a1",
+    "roomNumber": "101",
+    "type": "Deluxe",
+    "pricePerNight": 2500,
+    "capacity": 2,
+    "availability": ["2026-04-01", "2026-04-02", "2026-04-03"],
+    "amenities": ["WiFi", "AC", "TV"]
+  },
+  {
+    "hotelid": "64f1a1a1a1a1a1a1a1a1a1a2",
+    "roomNumber": "102",
+    "type": "Suite",
+    "pricePerNight": 4000,
+    "capacity": 4,
+    "availability": ["2026-04-05", "2026-04-06"],
+    "amenities": ["WiFi", "AC", "TV", "Mini Bar"]
+  },
+  {
+    "hotelid": "64f1a1a1a1a1a1a1a1a1a1a3",
+    "roomNumber": "201",
+    "type": "Standard",
+    "pricePerNight": 1800,
+    "capacity": 2,
+    "availability": ["2026-04-01", "2026-04-04"],
+    "amenities": ["WiFi", "Fan"]
+  },
+  {
+    "hotelid": "64f1a1a1a1a1a1a1a1a1a1a4",
+    "roomNumber": "202",
+    "type": "Deluxe",
+    "pricePerNight": 2700,
+    "capacity": 3,
+    "availability": ["2026-04-02", "2026-04-03"],
+    "amenities": ["WiFi", "AC", "TV"]
+  },
+  {
+    "hotelid": "64f1a1a1a1a1a1a1a1a1a1a5",
+    "roomNumber": "301",
+    "type": "Suite",
+    "pricePerNight": 5000,
+    "capacity": 5,
+    "availability": ["2026-04-10", "2026-04-11"],
+    "amenities": ["WiFi", "AC", "TV", "Jacuzzi"]
+  },
+  {
+    "hotelid": "64f1a1a1a1a1a1a1a1a1a1a6",
+    "roomNumber": "302",
+    "type": "Standard",
+    "pricePerNight": 1500,
+    "capacity": 2,
+    "availability": ["2026-04-06", "2026-04-07"],
+    "amenities": ["Fan", "TV"]
+  },
+  {
+    "hotelid": "64f1a1a1a1a1a1a1a1a1a1a7",
+    "roomNumber": "401",
+    "type": "Deluxe",
+    "pricePerNight": 3200,
+    "capacity": 3,
+    "availability": ["2026-04-08", "2026-04-09"],
+    "amenities": ["WiFi", "AC", "TV", "Balcony"]
+  },
+  {
+    "hotelid": "64f1a1a1a1a1a1a1a1a1a1a8",
+    "roomNumber": "402",
+    "type": "Suite",
+    "pricePerNight": 5500,
+    "capacity": 4,
+    "availability": ["2026-04-12", "2026-04-13"],
+    "amenities": ["WiFi", "AC", "TV", "Mini Bar", "Bathtub"]
+  },
+  {
+    "hotelid": "64f1a1a1a1a1a1a1a1a1a1a9",
+    "roomNumber": "501",
+    "type": "Standard",
+    "pricePerNight": 1700,
+    "capacity": 2,
+    "availability": ["2026-04-03", "2026-04-04"],
+    "amenities": ["WiFi"]
+  },
+  {
+    "hotelid": "64f1a1a1a1a1a1a1a1a1a1b0",
+    "roomNumber": "502",
+    "type": "Deluxe",
+    "pricePerNight": 2900,
+    "capacity": 3,
+    "availability": ["2026-04-07", "2026-04-08"],
+    "amenities": ["WiFi", "AC", "TV"]
+  }
+]

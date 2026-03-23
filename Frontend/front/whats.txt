@@ -1,0 +1,29 @@
+Hotel Booking Website Using
+:) HTML, CSS, REACT
+:) Express
+:) Mongoose
+
+I have made this website few months ago And Now I have updated many things.
+
+What I Updated :-
+
+Remove :-In Frontend
+
+    Derived State
+    State Closure
+    Multiple List Render
+    Remove Idempotency
+    And worst Components
+
+In Backend :-
+    I didn't find any issue from backend side 😅
+
+
+1) I have used Code Splitting Technique React.lazy() for downloading page when user wants to interact with them.
+2) I made a Custom Hook for making Debounce to prevent repeated API calls and get perfect searching results.
+An Intro or Loading page — it will be visible until data comes.
+3) I have used IntersectionObserver for loading data as per user requirement without reloading the page.
+4) I have used useQuery library, or you can say dependency, for storing search results in the form of cache and preventing unnecessary list renders.
+5) I have used forwardRef for sharing ref in other components for IntersectionObserver.
+6) I have used useRef for tracking scroll position for movement.
+7) And fixed some more bugs...
